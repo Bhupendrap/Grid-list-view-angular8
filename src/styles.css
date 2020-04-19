@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-size: large;
+}
+.card {
+  width: 80%;
+  margin: 15px;
+}
+
+.center {
+  text-align: center;
+}
+
+.custom-switch .custom-control-label::before {
+  height: 27px;
+  width: 50%;
+}
+
+.custom-switch .custom-control-label::after {
+  height: 23px;
+  width: 30%;
+}

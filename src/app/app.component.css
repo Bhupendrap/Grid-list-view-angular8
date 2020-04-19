@@ -1,0 +1,21 @@
+.custom-input-box {
+  width: 70%;
+  margin-right: 10px;
+  height: 60px;
+}
+
+.pl-30,.pr-30 {
+  padding-left: 30px;
+}
+
+.pull-right {
+  position: absolute;
+  top: 10px;
+  text-align: end;
+}
+
+.img-position {
+  height: 350%;
+  padding: 10px;
+  position: absolute;
+}
